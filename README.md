@@ -19,7 +19,7 @@ It works by sending input text to an online conversion service and extracting th
 - Batch text processing
 - Integration into backend services or APIs
 
-## ⚙Installation
+## Installation
 
 ```bash
 pip install requests beautifulsoup4
